@@ -25,7 +25,10 @@
     "type": "git",
     "url": "https://github.com/activescott/watch.git"
   },
-  "author": "Scott Willeke <scott2@willeke.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Scott Willeke <scott@willeke.com>",
   "directories": {
     "lib": "lib"
   },
