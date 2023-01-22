@@ -4,7 +4,7 @@ FORK of https://github.com/mikeal/watch as it seems to be no longer maintained d
 ## Install
 
 <pre>
-  npm install watch
+  npm install @activescott/watch
 </pre>
 
 ## Purpose
