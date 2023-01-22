@@ -15,7 +15,6 @@ jobs:
   #    node_versions: "[16]"
 
   publish:
-    environment: npm
     if: ${{ github.event_name != 'pull_request' }}
     #needs: [test]
     uses: activescott/github-actions-workflows/.github/workflows/npm-publisher.yml@npm-publisher-v4
